@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(99, 229, 18);
+    font-family:  Helvetica;
+}
+
+h1 {
+    text-align: center;
+    color: re;
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 40px;
+    background-color: yellow;
+}
+
+#texto1 {
+    color: blue;
+}
+
+.subtitulo{
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
